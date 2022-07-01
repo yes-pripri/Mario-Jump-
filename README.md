@@ -18,5 +18,3 @@
     # Clone the project 
     $ git clone https://github.com/yes-pripri/Mario-Jump-.git
  ````
-
-
