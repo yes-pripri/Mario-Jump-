@@ -4,8 +4,6 @@
 
  Mario Jump is a amazing game: You have to jump the pipe, when you can't jump the game is over.
 
-<img src="gif.gif">
-
   ## 🔨 Tools
 
  - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
